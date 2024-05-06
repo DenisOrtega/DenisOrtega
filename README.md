@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DenisOrtega
 - 👀 I’m interested in ... Blockchain and Code Program
 - 🌱 I’m currently learning ... HTML & CSS , Cybersecurity , Microsystems.
+- ✅ Alredy completed courses ... GitHub!
 - 💞️ I’m looking to collaborate on ... Any project that i can learn and grow as programer.
 - 📫 How to reach me ... You can sen mail to : denistrade30@gmail.com
 - 😄 Pronouns: ... Keep learning !! <3
